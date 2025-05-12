@@ -1,5 +1,2 @@
-/backend/.idea/
-/backend/*.iml
-/backend/.mvn/
-/backend/mvnw
-/backend/mvnw.cmd
+/mvnw text eol=lf
+*.cmd text eol=crlf
